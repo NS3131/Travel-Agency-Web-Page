@@ -1,0 +1,36 @@
+
+
+
+
+
+
+/* logo*/
+
+    .logo {
+      font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+      font-weight: bold;
+      font-size: 1.8rem;
+      color: #007bff;
+      display: flex;
+      align-items: center;
+    }
+
+    .logo i {
+      font-size: 1.5rem;
+      margin-right: 10px;
+      color: #28a745; /* optional icon color */
+    }
+
+    .logo span {
+      color: #343a40;
+    }
+
+/* <!-- Logo inside a navbar -->
+<nav class="navbar navbar-light bg-light px-3">
+  <a class="navbar-brand logo" href="#">
+    <i class="fas fa-globe-americas"></i>
+    Wonderful<span>_Destinations</span>
+  </a>
+</nav> */
+
+
